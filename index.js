@@ -7,3 +7,4 @@ e;
 f;
 g;
 history;
+let code = 'hello im coding via phone'
