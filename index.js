@@ -10,5 +10,5 @@ history;
 let code = 'hello im coding via phone'
 const latihanBranch = "latihan merge branch"
 const latihanBranch2 = ""
-const latihanBranch3 = ""
+const latihanBranch3 = "aa"
 
