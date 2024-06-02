@@ -8,3 +8,4 @@ f;
 g;
 history;
 let code = 'hello im coding via phone'
+const latihanBranch = "latihan merge branch"
